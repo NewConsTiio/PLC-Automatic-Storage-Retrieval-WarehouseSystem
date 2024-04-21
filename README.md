@@ -11,5 +11,7 @@ System Structure:
 PC host code structure:
 
 ![上位机结构框图](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/03ff9fd1-6c2f-4839-b900-09ffeea4ab4a)
+![image](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/0a8af331-cac5-4dbf-bbb9-32b8397b98b2)
+
 
 ![image](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/701b362b-070d-4861-949f-32c7fd94735d)
