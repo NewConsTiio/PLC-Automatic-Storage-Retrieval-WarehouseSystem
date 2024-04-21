@@ -8,7 +8,8 @@ ________________________________________________________________________________
 System Structure:
 
 ![主程序结构框图](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/0448afd2-2752-4c5a-af9c-8dbdd03c1c6c)
-![结构图FX5U-2](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/f27dc15c-4f70-47fc-998c-b1379d7f97df)
+![image](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/d532d1eb-004e-42d4-a291-9c3b1bf0c753)
+
 
 PC host code structure:
 
