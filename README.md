@@ -6,7 +6,7 @@ ________________________________________________________________________________
 System Structure:
 
 ![主程序结构框图](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/0448afd2-2752-4c5a-af9c-8dbdd03c1c6c)
-![结构图](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/d9d2f780-71d9-4855-9995-d9aa4ac0e697)
+![结构图FX5U-2](https://github.com/NewConsTiio/PLC-Automatic-Storage-Retrieval-WarehouseSystem/assets/82430239/f27dc15c-4f70-47fc-998c-b1379d7f97df)
 
 PC host code structure:
 
